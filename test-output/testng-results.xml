@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1926" started-at="2021-12-03T07:19:22Z" finished-at="2021-12-03T07:19:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1926" started-at="2021-12-03T07:19:22Z" finished-at="2021-12-03T07:19:24Z">
+      <class name="restAPI.PostRquest">
+        <test-method status="PASS" signature="Postcall()[pri:0, instance:restAPI.PostRquest@22eeefeb]" name="Postcall" duration-ms="1906" started-at="2021-12-03T07:19:22Z" finished-at="2021-12-03T07:19:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Postcall -->
+      </class> <!-- restAPI.PostRquest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
